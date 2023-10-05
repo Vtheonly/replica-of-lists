@@ -3,5 +3,6 @@
 using namespace std;
 class List{
     Node* x= createLinkedList(3,5);
-    Node* y= createLinkedList(23,15);
+    // ====================
+    Node* y= createLinkedList(2,15);
 };
