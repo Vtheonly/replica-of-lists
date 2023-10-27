@@ -6,16 +6,16 @@ console.log("==============");
 // efwevfwelf
 // fljwebfwelofbw3loeff
 
-
-
 // qeqbfbebfiubef  obouf
 // wefblwebflwebfl
 
+// kbvvkvkv
 
+// nblb
 
-
-kbvvkvkv
-
-
-
-nblb
+if (true) {
+  confirm;
+  FileSystemWritableFileStream;
+  console.log("----");
+  how;
+}
